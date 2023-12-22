@@ -6,8 +6,8 @@ of fun, interactive and beautiful experiences for all the people to see and enjo
 
 ## Life
 
-:shipit: CS student at [**Universidade de Brasília**][unb]  
-:shipit:  Member at [**CJR**][cjr]  
+:shipit: CS student @ [**Universidade de Brasília**][unb]  
+:shipit:  Member @ [**CJR**][cjr]  
 :shipit: Currently learning C, Python and Assembly RISC-V  
 :shipit: Contact at rafael.ghiorzi@gmail.com  
 
