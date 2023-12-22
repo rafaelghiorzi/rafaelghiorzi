@@ -24,8 +24,3 @@ of fun, interactive and beautiful experiences for all the people to see and enjo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelghiorzi&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelghiorzi&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=rafaelghiorzi&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
