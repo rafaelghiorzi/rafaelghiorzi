@@ -6,11 +6,13 @@ of fun, interactive and beautiful experiences for all the people to see and enjo
 
 ## Life
 
-:shipit: CS student at [**Universidade de Brasília**][https://www.unb.br]  
-:shipit:  Member at [**CJR**][https://cjr.org.br]  
+:shipit: CS student at [**Universidade de Brasília**][unb]  
+:shipit:  Member at [**CJR**][cjr]  
 :shipit: Currently learning C, Python and Assembly RISC-V  
 :shipit: Contact at rafael.ghiorzi@gmail.com  
 
+[unb]: https://www.unb.br
+[cjr]: https://cjr.org.br
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/diasmonlee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaeldghiorzi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeldghiorzi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UClD10hqKxgCrK5c2oMFwLWw) 
