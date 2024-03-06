@@ -8,6 +8,9 @@ Computer science student, currently learning web development.
 :shipit:  Member @ [**CJR**][cjr]    
 :shipit: Contact at rafael.ghiorzi@gmail.com  
 
+[cjr]: https://github.com/CJR-UnB
+[unb]: https://www.unb.br
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/diasmonlee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaeldghiorzi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeldghiorzi) 
 
