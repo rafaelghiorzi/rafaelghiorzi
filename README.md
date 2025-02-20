@@ -1,13 +1,15 @@
-# 💫 Hi, I'm Rafael Dias :
+# 💫 Olá, me chamo Rafael Dias :
 
-Computer science student, currently learning web development.
+Estudante de ciência da computação, desenvolvedor web e atualmente aprendendo sobre ciência e análise de dados!
 
 ## Life
 
 :shipit: CS student @ [**Universidade de Brasília**][unb]  
+:shipit: Auxiliar de pesquisa no projeto [**IpeaDATA-Lab**][ipea]
 :shipit:  Member @ [**CJR**][cjr]    
 :shipit: Contact at rafael.ghiorzi@gmail.com  
 
+[ipea]: https://github.com/ipeadata-lab
 [cjr]: https://github.com/CJR-UnB
 [unb]: https://www.unb.br
 
