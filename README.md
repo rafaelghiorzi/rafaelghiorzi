@@ -5,7 +5,7 @@ Estudante de ciência da computação, desenvolvedor web e atualmente aprendendo
 ## Life
 
 :shipit: CS student @ [**Universidade de Brasília**][unb]  
-:shipit: Auxiliar de pesquisa no projeto [**IpeaDATA-Lab**][ipea]
+:shipit: Auxiliar de pesquisa no projeto [**IpeaDATA-Lab**][ipea]  
 :shipit:  Member @ [**CJR**][cjr]    
 :shipit: Contact at rafael.ghiorzi@gmail.com  
 
