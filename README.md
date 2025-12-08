@@ -2,9 +2,9 @@
 
 ## AI enthusiast and Full-Stack Developer
 
-🔭 Currently working on multi-agent systems for augmented generation
-🌱 learning DevOps and Cloud infrastructure
-📄 Know about my [experiences](https://rafaelghiorzi.vercel.app/)
+🔭 Currently working on multi-agent systems for augmented generation  
+🌱 learning DevOps and Cloud infrastructure  
+📄 Know about my [experiences](https://rafaelghiorzi.vercel.app/)  
 
 🔹 CS student @ [**Universidade de Brasília**][unb]  
 🔹 Data Scientist @ [**IpeaDATA-Lab**][ipea]  
