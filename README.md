@@ -1,6 +1,6 @@
 # ✌️ Hello, I'm rafael Ghiorzi
 
-## AI enthusiast and Full-Stack Developer
+## DevOps and Software Architect enthusiast and Full-Stack Developer
 
 🔭 Currently working on multi-agent systems for augmented generation  
 🌱 learning DevOps and Cloud infrastructure  
