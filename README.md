@@ -7,10 +7,8 @@
 📄 Know about my [experiences](https://rafaelghiorzi.vercel.app/)  
 
 🔹 CS student @ [**Universidade de Brasília**][unb]  
-🔹 Data Scientist @ [**IpeaDATA-Lab**][ipea]  
 🔹 Contact at <rafael.ghiorzi@gmail.com>
 
-[ipea]: https://github.com/ipeadata-lab
 [unb]: https://www.unb.br
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaeldghiorzi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaeldghiorzi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rafael.ghiorzi@gmail.com)
