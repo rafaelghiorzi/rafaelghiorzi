@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rafael Ghiorzi
+✌️ Hello, I'm Rafael Ghiorzi
 =======================================================================================================================================
 
 Software Developer passionate about using technology to bring innovation
 ------------------------------------------------------------------------
 
-* 🌍  I'm based in Brasília, Brasil
-* 🖥️  See my portfolio at [Looking.cv](http://looking.cv/rafaeldghiorzi)
-* ✉️  You can contact me at [rafael.ghiorzi@gmail.com](mailto:rafael.ghiorzi@gmail.com)
-* 🧠  I'm currently learning DevOps and Software Architecture
-
-🔹 CS student @ [**Universidade de Brasília**][unb]  
-🔹 Contact at <rafael.ghiorzi@gmail.com>
+🔹 🌍  I'm based in Brasília, Brasil
+🔹 🖥️  See my portfolio at [Looking.cv](http://looking.cv/rafaeldghiorzi)
+🔹 ✉️  You can contact me at [rafael.ghiorzi@gmail.com](mailto:rafael.ghiorzi@gmail.com)
+🔹 🧠  I'm currently learning DevOps and Software Architecture
+🔹 🖊️  CS student @ [**Universidade de Brasília**][unb]  
 
 [unb]: https://www.unb.br
 
