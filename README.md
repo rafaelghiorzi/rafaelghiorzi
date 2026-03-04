@@ -9,6 +9,7 @@ Software Developer passionate about using technology to bring innovation
 🔹 ✉️  You can contact me at [rafael.ghiorzi@gmail.com](mailto:rafael.ghiorzi@gmail.com)  
 🔹 🧠  I'm currently learning DevOps and Software Architecture  
 🔹 🖊️  CS student @ [**Universidade de Brasília**][unb]  
+
 [unb]: https://www.unb.br
 
 <p align="left">
